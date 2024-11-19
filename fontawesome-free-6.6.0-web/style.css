@@ -1,0 +1,16 @@
+.myrows{
+    border: 3px solid green;
+}
+
+.mycols{
+    border: 3px solid coral;
+}
+
+.mycontainer{
+    background-color: green;
+    border: 3px solid rosybrown;
+}
+
+.text{
+    color: azure;
+}
