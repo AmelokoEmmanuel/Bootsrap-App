@@ -1,16 +1,27 @@
 .myrows{
     border: 3px solid green;
+    padding: 1px;
 }
 
 .mycols{
-    border: 3px solid coral;
+    padding: 5px;
+    background-color: antiquewhite;
+    box-shadow: 50cm;
 }
 
 .mycontainer{
-    background-color: green;
+    background-color: rgb(198, 201, 198);
     border: 3px solid rosybrown;
 }
 
 .text{
     color: azure;
+}
+
+#topheader{
+    
+    background-color: rgb(250, 248, 247);
+    border-bottom: 3px solid  rgb(223, 222, 219)
+    
+    
 }
