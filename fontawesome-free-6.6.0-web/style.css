@@ -15,13 +15,17 @@
 }
 
 .text{
-    color: azure;
+    color: rgb(3, 14, 14);
 }
 
 #topheader{
     
-    background-color: rgb(250, 248, 247);
     border-bottom: 3px solid  rgb(223, 222, 219)
     
-    
+}
+
+#topheader a{
+    color: black;
+    font-size: 0.89rem;
+    font-weight: 400;
 }
