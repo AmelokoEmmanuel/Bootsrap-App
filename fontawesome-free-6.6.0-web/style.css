@@ -1,17 +1,24 @@
-#topheader{
-    
-    border-bottom: 3px solid  rgb(223, 222, 219)
-    
+#topheader {
+    border-bottom: 3px solid rgb(223, 222, 219);
 }
 
-#topheader a{
-    color: rgb(168, 164, 164);
+#topheader a {
+    color: rgb(168, 164, 164) !important;  /* Add !important to ensure it applies */
     font-size: 1rem;
     font-weight: 400;
     font-style: oblique;
 }
 
-.container-fluid{
+#topheader a i {  /* Targeting Font Awesome icons within the #topheader */
+    color: rgb(168, 164, 164) !important;  /* Ensure icons inherit the same color */
+}
+
+.container-fluid {
     padding-left: 0;
     padding-right: 0;
+}
+
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
 }
