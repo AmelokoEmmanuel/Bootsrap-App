@@ -3,7 +3,7 @@
 }
 
 #topheader a {
-    color: rgb(168, 164, 164) !important;  /* Add !important to ensure it applies */
+    color: rgb(12, 6, 6) !important;  /* Add !important to ensure it applies */
     font-size: 1rem;
     font-weight: 400;
     font-style: oblique;
@@ -22,3 +22,8 @@ nav ul li a {
     font-size: 1.1rem;
     font-weight: 600;
 }
+
+.full-footerf{
+    color: #05aa57;
+  }
+
